@@ -1,1 +1,1 @@
-# EROAD-Java2-Test
+# Java2-Practical-Test

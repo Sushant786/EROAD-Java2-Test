@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>EROAD_Practical_Test</groupId>
-    <artifactId>EROAD</artifactId>
+    <groupId>Java2_Practical_Test</groupId>
+    <artifactId>PracticalTest</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <!-- https://mvnrepository.com/artifact/org.json/json -->
